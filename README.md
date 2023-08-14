@@ -1,16 +1,13 @@
-### Hi there 👋
+### Ola meu nome é Henrique.
 
-<!--
-**Henrique03032008/Henrique03032008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou estudando JavaScript no [Alura](https://www.alura.com.br)
 
-Here are some ideas to get you started:
+- Estudar
+- Aprender
+- Ler
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### Entrar em contato comigo 📧
+
+- Henrique.sobrieranski@escola.pr.gov.br
+
+- ![](https://media.tenor.com/5H3pUTkK7eoAAAAM/johnny-depp-pirate.gif)
